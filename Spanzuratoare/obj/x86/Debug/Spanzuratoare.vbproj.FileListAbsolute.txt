@@ -1,0 +1,9 @@
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.xml
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Spanzuratoare\Spanzuratoare\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Spanzuratoare\Spanzuratoare\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.vbproj.GenerateResource.Cache
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.exe
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.xml
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.pdb
